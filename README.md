@@ -16,8 +16,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
--->
-
 ![Douglas Venancio's GitHub stats](https://github-readme-stats.vercel.app/api?username=devDougie&show_icons=true&theme=github_dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devDougie&layout=compact)](https://github.com/devDougie/github-readme-stats)
+
+-->
+
+<div align="center">
+
+  <a href="https://github.com/devDougie">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devDougie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devDougie&layout=compact&langs_count=7&theme=github_dark"/>
+
+</div>
