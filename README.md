@@ -40,12 +40,12 @@ Olá! Sou o Douglas, entusiasta da programação e desenvolvedor focado em criar
 <p align="left">
   <img 
     height="180" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=devDougie&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true&bg_color=0d1117" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=devDougie&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&hide_border=false&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" 
     alt="Estatísticas do GitHub" 
   />
   <img 
     height="180" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devDougie&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0d1117" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devDougie&layout=compact&langs_count=7&hide_border=false&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" 
     alt="Linguagens mais usadas" 
   />
 </p>
