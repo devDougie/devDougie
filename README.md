@@ -49,4 +49,3 @@ Olá! Sou o Douglas, entusiasta da programação e desenvolvedor focado em criar
     alt="Linguagens mais usadas" 
   />
 </p>
-
