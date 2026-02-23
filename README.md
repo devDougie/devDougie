@@ -23,6 +23,8 @@ Olá! Sou o Douglas, entusiasta da programação e desenvolvedor focado em criar
 
 ### 🤖 Linguagens e Tecnologias
 
+<br/>
+
 <p align="center">
   <img title="Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
