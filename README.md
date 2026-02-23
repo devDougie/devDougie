@@ -1,5 +1,5 @@
 
-# 🧑‍💻 Douglas C. Venancio
+# 🧑‍💻 Douglas Venancio
 
 **`Desenvolvedor Back-end`**
 
@@ -40,12 +40,13 @@ Olá! Sou o Douglas, entusiasta da programação e desenvolvedor focado em criar
 <p align="left">
   <img 
     height="180" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=devDougie&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&locale=pt-br" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=devDougie&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true" 
     alt="Estatísticas do GitHub" 
   />
   <img 
     height="180" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devDougie&layout=compact&langs_count=7&theme=github_dark" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devDougie&layout=compact&langs_count=7&theme=transparent&hide_border=true" 
     alt="Linguagens mais usadas" 
   />
 </p>
+
