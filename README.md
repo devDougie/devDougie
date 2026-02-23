@@ -5,7 +5,7 @@
 
 Olá! Sou o Douglas, entusiasta da programação e desenvolvedor focado em criar soluções eficientes. Atualmente, foco meus estudos no ecossistema Java, Maven e SpringBoot. Estou em constante aprendizado através de projetos práticos para construir uma base sólida em desenvolvimento de software.
 
-<p align="left">
+<p align="center">
     <a href="mailto:douglas13cv@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
@@ -23,13 +23,19 @@ Olá! Sou o Douglas, entusiasta da programação e desenvolvedor focado em criar
 
 ### 🤖 Linguagens e Tecnologias
 
-<p align="left">
+<p align="center">
   <img title="Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img title="C#" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img title="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img title="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img title="SQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
 
@@ -37,7 +43,7 @@ Olá! Sou o Douglas, entusiasta da programação e desenvolvedor focado em criar
 
 ### 📊 Estatísticas
 
-<p align="left">
+<p align="center">
   <img 
     height="180" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=devDougie&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&hide_border=false&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" 
@@ -49,3 +55,4 @@ Olá! Sou o Douglas, entusiasta da programação e desenvolvedor focado em criar
     alt="Linguagens mais usadas" 
   />
 </p>
+
