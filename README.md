@@ -46,6 +46,11 @@ Olá! Sou o Douglas, entusiasta da programação e desenvolvedor focado em criar
 ### 📊 Estatísticas
 
 <p align="center">
+  <img src="./assets/metrics.svg" alt="Métricas do GitHub" />
+</p>
+
+<!--
+<p align="center">
   <img 
     height="180" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=devDougie&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&hide_border=false&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" 
@@ -57,4 +62,5 @@ Olá! Sou o Douglas, entusiasta da programação e desenvolvedor focado em criar
     alt="Linguagens mais usadas" 
   />
 </p>
+-->
 
