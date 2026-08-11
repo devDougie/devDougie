@@ -16,9 +16,11 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: devDougie
           filename: assets/metrics.svg
-          base: header, activity, community, repositories, metadata
+          base: header, repositories, metadata
+          config_theme: dark
           plugin_languages: yes
-          plugin_languages_sections: most-used, recently-used
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 8
-          plugin_lines: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_limit: 5
+          plugin_achievements: yes
+          plugin_achievements_display: compact
